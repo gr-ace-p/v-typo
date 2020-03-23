@@ -1,4 +1,4 @@
-# Materiali
+# V-Typo. Animate Meanings
 ## Prima fase di prototipazione: Arduino+sensori+p5.js  ##
  In questo prototipo utilizzo: un sensore ultrasuoni, un joystick ed un potenziometro per controllare gli assi di variaizone del carattere. 
  
