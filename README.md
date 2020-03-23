@@ -3,7 +3,7 @@
 
 
 
-![anteprima](https://imgur.com/WY9OleR)
+![anteprima](https://i.imgur.com/WY9OleR.png)
 
 
 [+](https://editor.p5js.org/gr.ace/sketches/kET-pmdYl)
