@@ -6,4 +6,4 @@
 ![anteprima](https://i.imgur.com/WY9OleR.png)
 
 
-[+](https://editor.p5js.org/gr.ace/sketches/kET-pmdYl)
+[Link al progetto+](https://editor.p5js.org/gr.ace/sketches/kET-pmdYl)
