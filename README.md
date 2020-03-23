@@ -6,4 +6,11 @@
 ![anteprima](https://i.imgur.com/WY9OleR.png)
 ![anteprima](https://i.imgur.com/B56wCnq.png)
 
+### In questo secondo prototipo sfrutto gli input ricevuti dal microfono per controllare due assi di variazione del carattere on base all'intensità del suono rilevato ###
+
+
+![anteprima](https://i.imgur.com/IQHQlBn.gifv)
+
+
+
 
