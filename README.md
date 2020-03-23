@@ -3,7 +3,7 @@
 #### In questo prototipo utilizzo: un sensore ultrasuoni, un joystick ed un potenziometro per controllare gli assi di variaizone del carattere ####
 
 
-![anteprima](https://i.imgur.com/WY9OleR.png)
+![anteprima](https://i.imgur.com/WY9OleRundefined.png)
 ![anteprima](https://i.imgur.com/B56wCnq.png)
 
 
@@ -11,6 +11,11 @@
 
 
 ![anteprima](https://i.imgur.com/IQHQlBn.gif)
+
+
+
+
+#### In questo caso utilizzo la libreria ml5.js per permettere all'algoritmo di riconoscere il mio volto assegnando agli assi di variazione del carattere delle dimensioni che variano a seconda della mia distanza dallo schermo, quindi alla grandezza del mio volto. ####
 
 
 
