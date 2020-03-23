@@ -1,0 +1,25 @@
+@font-face {
+  /* Downloaded from axis-praxis.org, font from https://github.com/TypeNetwork/fb-Amstelvar. */
+  src: "AmstelvarAlpha-VF.ttf"
+    format("truetype");
+  font-family: AmstelvarAlpha;
+ 
+}
+
+html,
+body {
+  margin:0;
+  padding:0;
+  justify-content: center;
+  position: absolute;
+  right: 50px;
+  /*font-size:80px;*/
+   
+ 
+  font-family: AmstelvarAlpha;
+ 
+  
+}
+canvas {
+  display: block;
+}
