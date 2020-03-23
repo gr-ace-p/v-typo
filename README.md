@@ -73,3 +73,11 @@ Una seconda fase ha previsto che aggiungessi la variazione del colore a quella d
 
 
 ![anteprima](https://imgur.com/xhey1qK.gif)
+
+
+L'ultimo passo è stato quello di aggiungere un video preso da YouTube sul quale effettuare, grazie ad un algoritmo di speech recognition, la Sentiment Analysis ottenendo un valore in grado di motificare la forma delle lettere se assegnato ad un asse di variazione.
+
+[vai al progetto](https://editor.p5js.org/gr.ace/full/jrneos3pc)
+
+
+![anteprima](https://imgur.com/ZGxO6aj.gif)
