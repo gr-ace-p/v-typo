@@ -48,7 +48,7 @@ Infine con lo stesso meccanismo ho agito sul colore del carattere ad ogni sentim
 ![Imgur](https://imgur.com/BKLMymh.gif)
 
 # Progetto
-#### Prototipi realizzati con algoritmi di Speech recognition e Sentimen Analysis, in grado di rilevare l'umore della frase e modificare in base a questo un parametro scelto ####
+#### Prototipi realizzati con algoritmi di Speech recognition e Sentimen Analysis, in grado di rilevare l'umore della frase e modificare in base a questo un parametro scelto. ####
 
 
 In questo primo prototipo il rilevamento di una frase positiva equivale ad un carattere light, di una negativa invece Bold.
