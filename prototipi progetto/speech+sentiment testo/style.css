@@ -1,0 +1,83 @@
+@font-face {
+  /* Downloaded from axis-praxis.org, font from https://github.com/TypeNetwork/fb-Amstelvar. */
+  src: url('VotoSerifGX.ttf')
+    format("truetype-variations");
+  font-family: VotoSerifGX;
+  font-weight: 1 999;
+}
+
+
+@font-face {
+  /* Downloaded from axis-praxis.org, font from https://github.com/TypeNetwork/fb-Amstelvar. */
+  src: url('AmstelvarAlpha-VF.ttf')
+    format("truetype");
+  font-family: AmstelvarAlpha;
+  
+ 
+}
+
+
+
+
+
+html, body {
+  margin:30;
+  padding:0;
+  justify-content: center;
+  position: absolute;
+  right: 20px;
+  left: 100;
+  /*border: 2px solid;*/
+  
+  font-size:25px;
+   
+ 
+  font-family: AmstelvarAlpha;
+  font-variation-settings: 'wght' 75 ,'wdth' 402;
+    
+    
+}
+canvas {
+  display: block;
+}
+
+#container {
+    /*margin-top: 20px;*/
+  	padding:20px;
+	
+    border-width:0px; 
+    
+	height: 150px;
+	overflow-y: hidden;
+    font-family: VotoSerifGX;
+  
+  }
+
+#registrazione {
+    /*margin-top: 20px;*/
+  	padding:0 px;
+	/*border: 2px solid;*/
+	height: 150px;
+	overflow-y: hidden;
+    font-family: VotoSerifGX;
+    font-variation-settings: 'wght' 60;
+  transition: font-variation-settings .45s ease-out;
+  
+  }
+
+#sentimento {
+    /*margin-top: 20px;*/
+  	padding:0 px;
+	/*border: 2px solid;*/
+	height: 100px;
+	overflow-y: hidden;
+    /*background-color: #e9d0b6; */
+    font-family: VotoSerifGX;
+  font-size: 18px;
+  font-variation-settings: 'wght' 60;
+  transition: font-variation-settings .45s ease-out;
+  
+  }
+
+
+
