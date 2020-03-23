@@ -39,3 +39,16 @@
 
 
 ![Imgur](https://imgur.com/BKLMymh.gif)
+
+# Progetto
+## Prototipi realizzati con algoritmi di Speech recognition e Sentimen Analysis, in grado di rilevare l'umore della frase e modificare in base a questo un parametro scelto ## 
+#### In questo primo prototipo il rilevamento di una frase positiva equivale ad un carattere light, di una negativa invece Bold.[+](https://editor.p5js.org/gr.ace/sketches/LE0oLOwA) ####
+
+
+![Imgur](https://imgur.com/DiBnuz9.gif)
+
+
+#### Una seconda fase ha previsto che aggiungesi la variazione del colore a quella della forma delle lettere, sempre in riferimento al valore ottenuto dalla sentiment analysis [+](https://editor.p5js.org/gr.ace/sketches/m7IoA91n) ####
+
+
+![anteprima](https://imgur.com/xhey1qK.gif)
