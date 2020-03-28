@@ -10,6 +10,7 @@
  
  
  [vai al progetto](https://editor.p5js.org/gr.ace/full/kET-pmdYl) 
+ 
  [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/Primi%20prototipi_arduino%20e%20sensori)
 
 
