@@ -62,6 +62,7 @@ In questo primo prototipo il rilevamento di una frase positiva equivale ad un ca
 
 
 [vai al progetto](https://editor.p5js.org/gr.ace/full/LE0oLOwA)
+[vai a sorgente progetto](https://editor.p5js.org/gr.ace/full/LE0oLOwA)
 
 
 ![Imgur](https://imgur.com/DiBnuz9.gif)
@@ -70,7 +71,9 @@ In questo primo prototipo il rilevamento di una frase positiva equivale ad un ca
 Una seconda fase ha previsto che aggiungessi la variazione del colore a quella della forma delle lettere, sempre in riferimento al valore ottenuto dalla Sentiment Analysis.
 
 [vai al progetto p5.editor](https://editor.p5js.org/gr.ace/full/m7IoA91n)
-[vai al progetto p5.editor](https://editor.p5js.org/gr.ace/full/m7IoA91n)
+
+
+[vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/prototipi%20progetto/speech%2Bsentiment%20testo%20e%20colore)
 
 
 ![anteprima](https://imgur.com/xhey1qK.gif)
