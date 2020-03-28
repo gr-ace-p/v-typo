@@ -51,6 +51,8 @@ Infine con lo stesso meccanismo ho agito sul colore del carattere ad ogni sentim
 
 [vai al progetto_1](https://editor.p5js.org/gr.ace/full/Se3VX-QkU) [vai al progetto_2](https://editor.p5js.org/gr.ace/full/Q96NWNCD)
 
+[vai a sorgente progetto]()
+
 
 ![Imgur](https://imgur.com/BKLMymh.gif)
 
@@ -62,7 +64,9 @@ In questo primo prototipo il rilevamento di una frase positiva equivale ad un ca
 
 
 [vai al progetto](https://editor.p5js.org/gr.ace/full/LE0oLOwA)
-[vai a sorgente progetto](https://editor.p5js.org/gr.ace/full/LE0oLOwA)
+
+
+[vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/prototipi%20progetto/speech%2Bsentiment%20testo)
 
 
 ![Imgur](https://imgur.com/DiBnuz9.gif)
