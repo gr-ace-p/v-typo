@@ -10,6 +10,7 @@
  
  
  [vai al progetto](https://editor.p5js.org/gr.ace/full/kET-pmdYl) 
+ [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/Primi%20prototipi_arduino%20e%20sensori)
 
 
 ![anteprima](https://imgur.com/ljHEUlN.gif)
@@ -20,6 +21,8 @@
  
  
  [vai al progetto](https://editor.p5js.org/gr.ace/full/M1ov0ly79) 
+ 
+ [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/Prototipo%20microfono%20e%20VF)
 
 
 ![anteprima](https://i.imgur.com/IQHQlBn.gif)
@@ -31,6 +34,8 @@
  
  
  [vai al progetto](https://editor.p5js.org/gr.ace/full/-YJZEA8sf) 
+ 
+ [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/PrototipiIntelligenti/ml5FaceDetection)
 
 
 ![Imgur](https://imgur.com/qSCBBfM.gif)
@@ -67,7 +72,6 @@ In questo primo prototipo il rilevamento di una frase positiva equivale ad un ca
 
 [vai al progetto](https://editor.p5js.org/gr.ace/full/LE0oLOwA)
 
-
 [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/prototipi%20progetto/speech%2Bsentiment%20testo)
 
 
@@ -78,7 +82,6 @@ Una seconda fase ha previsto che aggiungessi la variazione del colore a quella d
 
 [vai al progetto p5.editor](https://editor.p5js.org/gr.ace/full/m7IoA91n)
 
-
 [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/prototipi%20progetto/speech%2Bsentiment%20testo%20e%20colore)
 
 
@@ -88,7 +91,6 @@ Una seconda fase ha previsto che aggiungessi la variazione del colore a quella d
 L'ultimo passo è stato quello di aggiungere un video preso da YouTube sul quale effettuare, grazie ad un algoritmo di speech recognition, la Sentiment Analysis ottenendo un valore in grado di motificare la forma delle lettere se assegnato ad un asse di variazione.
 
 [vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/jrneos3pc)
-
 
 [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/prototipi%20progetto/speech%2B%20sentiment%20video%20e%20testo/funzionante)
 
