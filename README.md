@@ -69,7 +69,8 @@ In questo primo prototipo il rilevamento di una frase positiva equivale ad un ca
 
 Una seconda fase ha previsto che aggiungessi la variazione del colore a quella della forma delle lettere, sempre in riferimento al valore ottenuto dalla Sentiment Analysis.
 
-[vai al progetto](https://editor.p5js.org/gr.ace/full/m7IoA91n)
+[vai al progetto p5.editor](https://editor.p5js.org/gr.ace/full/m7IoA91n)
+[vai al progetto p5.editor](https://editor.p5js.org/gr.ace/full/m7IoA91n)
 
 
 ![anteprima](https://imgur.com/xhey1qK.gif)
@@ -78,7 +79,9 @@ Una seconda fase ha previsto che aggiungessi la variazione del colore a quella d
 L'ultimo passo è stato quello di aggiungere un video preso da YouTube sul quale effettuare, grazie ad un algoritmo di speech recognition, la Sentiment Analysis ottenendo un valore in grado di motificare la forma delle lettere se assegnato ad un asse di variazione.
 
 [vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/jrneos3pc)
-[vai a sorgente progetto](https://editor.p5js.org/gr.ace/full/jrneos3pc)
+
+
+[vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/prototipi%20progetto/speech%2B%20sentiment%20video%20e%20testo/funzionante)
 
 
 ![anteprima](https://imgur.com/ZGxO6aj.gif)
