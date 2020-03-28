@@ -41,6 +41,8 @@
  
  
  [vai al progetto](https://editor.p5js.org/gr.ace/full/Ztfd3xQNy) 
+ 
+ [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/PrototipiIntelligenti/SentimentAnalysis)
 
 
 ![Imgur](https://imgur.com/U8oVxmz.gif)
@@ -51,7 +53,7 @@ Infine con lo stesso meccanismo ho agito sul colore del carattere ad ogni sentim
 
 [vai al progetto_1](https://editor.p5js.org/gr.ace/full/Se3VX-QkU) [vai al progetto_2](https://editor.p5js.org/gr.ace/full/Q96NWNCD)
 
-[vai a sorgente progetto]()
+
 
 
 ![Imgur](https://imgur.com/BKLMymh.gif)
