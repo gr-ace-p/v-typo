@@ -10,7 +10,7 @@
  In questo prototipo utilizzo: un sensore ultrasuoni, un joystick ed un potenziometro per controllare gli assi di variaizone del carattere. 
  
  
- [vai al progetto](https://editor.p5js.org/gr.ace/full/kET-pmdYl) 
+ [vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/kET-pmdYl) 
  
  [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/Primi%20prototipi_arduino%20e%20sensori)
 
@@ -22,7 +22,7 @@
  In questo secondo prototipo sfrutto gli input ricevuti dal microfono per controllare due assi di variazione del carattere on base all'intensità del suono rilevato
  
  
- [vai al progetto](https://editor.p5js.org/gr.ace/full/M1ov0ly79) 
+ [vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/M1ov0ly79) 
  
  [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/Prototipo%20microfono%20e%20VF)
 
@@ -35,7 +35,7 @@
  In questo caso utilizzo la libreria ml5.js per permettere all'algoritmo di riconoscere il mio volto assegnando agli assi di variazione del carattere delle dimensioni che variano a seconda della mia distanza dallo schermo, quindi alla grandezza del mio volto.
  
  
- [vai al progetto](https://editor.p5js.org/gr.ace/full/-YJZEA8sf) 
+ [vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/-YJZEA8sf) 
  
  [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/PrototipiIntelligenti/ml5FaceDetection)
 
@@ -47,7 +47,7 @@
  Ho utilizzato in questo caso un algoritmo di Machine Learning in grado di riconoscere istante per istante le emozioni rilevate dal mio volto, ogni emozione modifica un asse di variazione del carattere. 
  
  
- [vai al progetto](https://editor.p5js.org/gr.ace/full/Ztfd3xQNy) 
+ [vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/Ztfd3xQNy) 
  
  [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/PrototipiIntelligenti/SentimentAnalysis)
 
@@ -58,7 +58,7 @@
 Infine con lo stesso meccanismo ho agito sul colore del carattere ad ogni sentimento rilevato
 
 
-[vai al progetto_1](https://editor.p5js.org/gr.ace/full/Se3VX-QkU) [vai al progetto_2](https://editor.p5js.org/gr.ace/full/Q96NWNCD)
+[vai al progetto p5.js editor_1](https://editor.p5js.org/gr.ace/full/Se3VX-QkU) [vai al progetto p5.js editor_2](https://editor.p5js.org/gr.ace/full/Q96NWNCD)
 
 
 
@@ -72,7 +72,7 @@ Infine con lo stesso meccanismo ho agito sul colore del carattere ad ogni sentim
 In questo primo prototipo il rilevamento di una frase positiva equivale ad un carattere light, di una negativa invece Bold.
 
 
-[vai al progetto](https://editor.p5js.org/gr.ace/full/LE0oLOwA)
+[vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/LE0oLOwA)
 
 [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/prototipi%20progetto/speech%2Bsentiment%20testo)
 
