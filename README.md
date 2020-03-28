@@ -92,7 +92,7 @@ Una seconda fase ha previsto che aggiungessi la variazione del colore a quella d
 
 L'ultimo passo è stato quello di aggiungere un video preso da YouTube sul quale effettuare, grazie ad un algoritmo di speech recognition, la Sentiment Analysis ottenendo un valore in grado di motificare la forma delle lettere se assegnato ad un asse di variazione.
 
-[vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/jrneos3pc)
+[vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/sketches/JYxfZfrn3)
 
 [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/prototipi%20progetto/speech%2B%20sentiment%20video%20e%20testo/funzionante)
 
