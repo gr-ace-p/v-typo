@@ -1,4 +1,5 @@
-# V-Typo. Animate Meanings
+# V-Typo. Animate Meanings. Inserti testuali cinematografici Intelligenti.
+## Esplorazione tecnologie e prototipi.
 ###### Il progetto affronta il tema della tipografia nella sottotitolazione cinematografica, proponendo l'uso dei caratteri variabili come strumento espressivo che permetta la comprensione delle immagini con un approccio "for all", con l'intento di rendere i sottotitoli elementi in grado di colmare a trecentosessanta gradi l'eventuale impossibilità di fruire del sonoro. ######
 
 ###### *The design theme is typography in the cinematographic subtitling, proposing the use of variable characters as an expressive tool that allows the understanding of images with a "for all" approach, with the aim of making subtitles elements capable of bridging the eventual impossibility of enjoying the sound*. 
