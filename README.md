@@ -77,4 +77,4 @@ L'ultimo passo è stato quello applicare le sperimentazioni effettuate ad un con
 [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/prototipi%20progetto/speech%2B%20sentiment%20video%20e%20testo/funzionante)
 
 
-![anteprima](https://imgur.com/ZGxO6aj.gif)
+![anteprima](https://i.imgur.com/tDA2Q2T.gif)
