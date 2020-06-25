@@ -16,7 +16,7 @@
  [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/Primi%20prototipi_arduino%20e%20sensori)
 
 
-![anteprima](https://imgur.com/ljHEUlN.gif)
+![anteprima](https://i.imgur.com/Ip5uNQn.gif)
 
 
 ## Seconda fase di prototipazione: Dati microfono ##
