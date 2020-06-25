@@ -56,7 +56,7 @@ Ho utilizzato in questo caso un algoritmo di Machine Learning in grado di ricono
 
 
 # Progetto
-#### I Prototipi realizzati sfruttano algoritmi di Speech recognition e Sentimen Analysis, in grado di rilevare la frase pronunciata e l'umore di quest'ultima, modificando in base a questo la forma delle lettere. ####
+#### I Prototipi sfruttano algoritmi di Speech recognition e Sentimen Analysis rispettivamente in grado di rilevare la frase pronunciata e l'umore di quest'ultima, modificando in base ad essa un asse di variazione del carattere. ####
 
 
 In questo primo prototipo il rilevamento di una frase positiva equivale ad un carattere light, di una negativa invece Bold.
