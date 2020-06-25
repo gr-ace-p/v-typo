@@ -72,7 +72,7 @@ In questo primo prototipo il rilevamento di una frase positiva equivale ad un ca
 
 L'ultimo passo è stato quello applicare le sperimentazioni effettuate ad un contesto reale: un video già presente su YouTube la cui sottotitolazione viene generata sfruttando gli algoritmi già sperimentati nei prototipi. 
 
-[vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/TctDw6hSr)
+[vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/sketches/TctDw6hSr)
 
 [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/prototipi%20progetto/speech%2B%20sentiment%20video%20e%20testo/funzionante)
 
