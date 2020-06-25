@@ -41,8 +41,7 @@
  [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/PrototipiIntelligenti/ml5FaceDetection)
 
 
-![Imgur](https://i.imgur.com/VJ6r0C4l.gif)
-
+![Imgur](https://i.imgur.com/VJ6r0C4.gifv)
 
  Ho utilizzato in questo caso un algoritmo di Machine Learning in grado di riconoscere istante per istante le emozioni rilevate dal mio volto, ogni emozione modifica un asse di variazione del carattere. 
  
