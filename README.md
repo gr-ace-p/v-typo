@@ -28,7 +28,7 @@
  [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/Prototipo%20microfono%20e%20VF)
 
 
-![anteprima](https://i.imgur.com/IQHQlBn.gif)
+![anteprima](https://i.imgur.com/yvC9Li6.gif)
 
 
 ## Terza fase di prototipazione: prototipi intelligenti ##
