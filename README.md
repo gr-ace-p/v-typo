@@ -33,7 +33,7 @@
 
 ## Terza fase di prototipazione: prototipi intelligenti ##
 #### Prototipi realizzati con algoritmi di Machine Learning in grado di riconoscere i volti e le espressioni su essi. ####
- In questo caso utilizzo la libreria ml5.js che permette all'algoritmo di riconoscere il mio volto assegnando agli assi di variazione del carattere delle dimensioni che variano a seconda della mia distanza dallo schermo, quindi alla grandezza del mio volto.
+In questo caso utilizzo la libreria ml5.js che permette all'algoritmo di riconoscere il mio volto assegnando agli assi di variazione del carattere delle dimensioni che variano a seconda della mia distanza dallo schermo, quindi alla grandezza del mio volto.
  
  
  [vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/NXffr_GTc) 
@@ -43,15 +43,16 @@
 
 ![Imgur](https://i.imgur.com/R3ENZc1.gif)
 
- Ho utilizzato in questo caso un algoritmo di Machine Learning in grado di riconoscere istante per istante le emozioni rilevate dal mio volto, ogni emozione modifica un asse di variazione del carattere. 
+
+Ho utilizzato in questo caso un algoritmo di Machine Learning in grado di riconoscere istante per istante le emozioni rilevate dal mio volto, ogni emozione modifica un asse di variazione del carattere. 
  
  
- [vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/Ztfd3xQNy) 
+ [vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/G8bj4TYM-) 
  
  [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/PrototipiIntelligenti/SentimentAnalysis)
 
 
-![Imgur](https://imgur.com/U8oVxmz.gif)
+![Imgur](https://i.imgur.com/xmxraiA.gif)
 
 
 Infine con lo stesso meccanismo ho agito sul colore del carattere ad ogni sentimento rilevato
