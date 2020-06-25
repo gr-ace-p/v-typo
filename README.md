@@ -41,7 +41,7 @@
  [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/PrototipiIntelligenti/ml5FaceDetection)
 
 
-![Imgur](https://i.imgur.com/fbeC7IC.gifv)
+![Imgur](https://i.imgur.com/fbeC7IC.gif)
 
 
 
