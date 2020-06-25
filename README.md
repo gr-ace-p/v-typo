@@ -62,7 +62,7 @@ Ho utilizzato in questo caso un algoritmo di Machine Learning in grado di ricono
 In questo primo prototipo il rilevamento di una frase positiva equivale ad un carattere light, di una negativa invece Bold.
 
 
-[vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/LE0oLOwA)
+[vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/sketches/LE0oLOwA)
 
 [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/prototipi%20progetto/speech%2Bsentiment%20testo)
 
