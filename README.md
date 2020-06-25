@@ -23,7 +23,7 @@
  In questo secondo prototipo sfrutto gli input ricevuti dal microfono per controllare due assi di variazione del carattere on base all'intensità del suono rilevato
  
  
- [vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/M1ov0ly79) 
+ [vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/sketches/M1ov0ly79) 
  
  [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/Prototipo%20microfono%20e%20VF)
 
@@ -36,7 +36,7 @@
 In questo caso utilizzo la libreria ml5.js che permette all'algoritmo di riconoscere il mio volto assegnando agli assi di variazione del carattere delle dimensioni che variano a seconda della mia distanza dallo schermo, quindi alla grandezza del mio volto.
  
  
- [vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/NXffr_GTc) 
+ [vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/sketches/NXffr_GTc) 
  
  [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/PrototipiIntelligenti/ml5FaceDetection)
 
@@ -44,7 +44,7 @@ In questo caso utilizzo la libreria ml5.js che permette all'algoritmo di riconos
 ![Imgur](https://i.imgur.com/R3ENZc1.gif)
 
 
-Ho utilizzato in questo caso un algoritmo di Machine Learning in grado di riconoscere istante per istante le emozioni rilevate dal mio volto, ogni emozione modifica un asse di variazione del carattere. 
+Ho utilizzato in questo caso un algoritmo di Machine Learning in grado di riconoscere istante per istante le espressioni rilevate dal mio volto, ognuna di esse modifica un asse di variazione del carattere. 
  
  
  [vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/G8bj4TYM-) 
