@@ -52,7 +52,7 @@ Ho utilizzato in questo caso un algoritmo di Machine Learning in grado di ricono
  [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/PrototipiIntelligenti/SentimentAnalysis)
 
 
-![Imgur](https://i.imgur.com/xmxraiA.gif)
+![Imgur](https://i.imgur.com/xmxraiAm.gif)
 
 
 Infine con lo stesso meccanismo ho agito sul colore del carattere ad ogni sentimento rilevato
