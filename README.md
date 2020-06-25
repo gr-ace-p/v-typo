@@ -55,16 +55,6 @@ Ho utilizzato in questo caso un algoritmo di Machine Learning in grado di ricono
 ![Imgur](https://i.imgur.com/k4GlMlU.gif)
 
 
-Infine con lo stesso meccanismo ho agito sul colore del carattere ad ogni sentimento rilevato
-
-
-[vai al progetto p5.js editor_1](https://editor.p5js.org/gr.ace/full/Se3VX-QkU) [vai al progetto p5.js editor_2](https://editor.p5js.org/gr.ace/full/Q96NWNCD)
-
-
-
-
-![Imgur](https://imgur.com/BKLMymh.gif)
-
 # Progetto
 #### Prototipi realizzati con algoritmi di Speech recognition e Sentimen Analysis, in grado di rilevare l'umore della frase e modificare in base a questo un parametro scelto. ####
 
