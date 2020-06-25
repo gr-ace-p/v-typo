@@ -67,7 +67,7 @@ In questo primo prototipo il rilevamento di una frase positiva equivale ad un ca
 [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/prototipi%20progetto/speech%2Bsentiment%20testo)
 
 
-![Imgur](https://imgur.com/DiBnuz9.gif)
+![Imgur](https://i.imgur.com/ENS8n2e.gif)
 
 
 Una seconda fase ha previsto che aggiungessi la variazione del colore a quella della forma delle lettere, sempre in riferimento al valore ottenuto dalla Sentiment Analysis.
