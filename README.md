@@ -33,15 +33,15 @@
 
 ## Terza fase di prototipazione: prototipi intelligenti ##
 #### Prototipi realizzati con algoritmi di Machine Learning in grado di riconoscere i volti e le espressioni su essi. ####
- In questo caso utilizzo la libreria ml5.js per permettere all'algoritmo di riconoscere il mio volto assegnando agli assi di variazione del carattere delle dimensioni che variano a seconda della mia distanza dallo schermo, quindi alla grandezza del mio volto.
+ In questo caso utilizzo la libreria ml5.js che permette all'algoritmo di riconoscere il mio volto assegnando agli assi di variazione del carattere delle dimensioni che variano a seconda della mia distanza dallo schermo, quindi alla grandezza del mio volto.
  
  
- [vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/-YJZEA8sf) 
+ [vai al progetto p5.js editor](https://editor.p5js.org/gr.ace/full/NXffr_GTc) 
  
  [vai a sorgente progetto](https://github.com/gr-ace-p/v-typo/tree/master/PrototipiIntelligenti/ml5FaceDetection)
 
 
-![Imgur](https://imgur.com/qSCBBfM.gif)
+![Imgur](https://imgur.com/fbeC7IC.gif)
 
 
 
